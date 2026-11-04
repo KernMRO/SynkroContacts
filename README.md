@@ -59,21 +59,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>👥 Linked Contacts &amp; Companies</b><br />
+      <b>Linked Contacts &amp; Companies</b><br />
       Associate multiple contacts with a company and navigate seamlessly between a company profile and its people in a single click.
     </td>
     <td width="50%" valign="top">
-      <b>📇 Rich, Detailed Profiles</b><br />
+      <b>Rich, Detailed Profiles</b><br />
       Store multiple phone numbers, email addresses, and physical addresses per contact or company, with the ability to flag your preferred entries.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🔄 vCard (.vcf) Import &amp; Export</b><br />
+      <b>vCard (.vcf) Import &amp; Export</b><br />
       Back up or migrate your entire contact list using the industry-standard <code>.vcf</code> format, powered by <code>FolkerKinzel.VCards</code>.
     </td>
     <td width="50%" valign="top">
-      <b>🔒 100% Local &amp; Private</b><br />
+      <b>100% Local &amp; Private</b><br />
       No cloud sync, no internet connection required. All data is stored locally in a SQLite database at <code>%AppData%\SynkroContacts\contacts.db</code>.
     </td>
   </tr>
